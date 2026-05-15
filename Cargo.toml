@@ -27,3 +27,4 @@ description = "[开发中] 一个用rust实现 应用管理平台 [测试账号:
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
